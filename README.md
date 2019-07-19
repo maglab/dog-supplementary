@@ -10,9 +10,6 @@ Doherty A, Lopes I, Ford CT, Monaco G, Guest P, de Magalhaes JP. "A scan for gen
 
 
 # Table of Contents:
-Supplementary Figure 1: (a) Spearman correlation between cancer mortality and body weight, (b) Spearman correlation between body weight and life expectancy, (c) Spearman correlation between cancer mortality and life expectancy and (d) Spearman correlation between cancer mortality residuals and life expectancy.
-
-Supplementary Figure 2: (a) Manhattan plot of SNPs associated with body weight, (b) Manhattan plot of SNPs associated with cancer mortality residuals, (c) Manhattan plot of SNPs associated with longevity residuals.
 
 Supplementary Table 1: List of all phenotypic and genotypic data used in analysis.
 
